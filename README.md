@@ -1,4 +1,6 @@
-# Astro Starter Kit: Plugin
+# astro-cms-lite
+
+A lightweight CMS plugin for Astro to manage content easily.
 
 ```shell
 npm init astro -- --template astro-community/plugin-template
